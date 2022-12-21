@@ -1,3 +1,3 @@
 # engoware
- 
-future, but rewritten i guess.
+
+Lua is easy I guess.
